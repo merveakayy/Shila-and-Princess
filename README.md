@@ -1,4 +1,4 @@
-# Shila-and-Princess
+# Shila and Princess
 
 The aim of the game is to collect all the diamonds on the map and open the castle door and save the princess from the enemies.
 
