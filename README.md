@@ -5,8 +5,6 @@ The aim of the game is to collect all the diamonds on the map and open the castl
 
 
 
-
-
 ## Features
 
 - Unusual main character and sweet monsters
@@ -17,6 +15,11 @@ The aim of the game is to collect all the diamonds on the map and open the castl
 - The most beautiful princess in the world according to the main character, your duty to save her
 - Only on the computer
 
+## Game Controls
+- Forward - Back - Left - Right with W - A - D - S keys
+- Throwing weapons with the V key
+- Screen control with Mouse
+- Jumping with Space
 
 ## Screenshots
 
